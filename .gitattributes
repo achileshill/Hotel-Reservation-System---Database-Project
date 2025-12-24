@@ -1,1 +1,2 @@
- *.js linguist-language=SQL
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
